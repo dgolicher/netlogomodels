@@ -1,0 +1,62 @@
+---
+title: "Netlogo models"
+author: "Duncan Golicher"
+date: "03/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Models {.tabset}
+
+## Panmixia
+
+```{r}
+
+if(knitr::is_html_output()) {
+ knitr::include_graphics("panmixia.gif") 
+}
+```
+
+
+## Moving wave
+
+```{r}
+
+if(knitr::is_html_output()) {
+ knitr::include_graphics("moving_wave.gif") 
+}
+```
+
+## Lockdown
+
+```{r}
+
+if(knitr::is_html_output()) {
+ knitr::include_graphics("lockdown.gif") 
+}
+```
+
+
+## Fast waning immunity
+
+```{r}
+
+if(knitr::is_html_output()) {
+ knitr::include_graphics("waning.gif") 
+}
+```
+
+
+## Blocking immunity
+
+```{r}
+
+if(knitr::is_html_output()) {
+ knitr::include_graphics("blocking.gif") 
+}
+```
+
+

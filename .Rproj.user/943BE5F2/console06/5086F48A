@@ -1,0 +1,300 @@
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg
+ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Hyper fast Audio and Video encoder
+usage: ffmpeg [options] [[infile options] -i infile]... {[outfile options] outfile}...
+
+[48;5;0m[38;5;226mUse -h to get full help or, even better, run 'man ffmpeg'
+[0m]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg -i input_video_file output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gif[1P output.gift output.gife output.gifs output.gift output.gif. output.gifm output.gifo output.gifv output.gif[C output.gif[C[C[C[C[C[C[C[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gifp.gifa.gifn.gifm.gifi.gifx.gifi.gifa.gif[C[C[C[C
+ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'test.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2021-03-03T18:00:29.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    com.apple.quicktime.creationdate: 2021-03-03T17:59:34+0000
+  Duration: 00:00:26.18, start: 0.000000, bitrate: 1656 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1310x518 [SAR 1:1 DAR 655:259], 1416 kb/s, 25.59 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:00:29.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 239 kb/s (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:00:29.000000Z
+      handler_name    : Core Media Data Handler
+[48;5;0m[38;5;153m[swscaler @ 0x55a17217eea0] [0m[48;5;0m[38;5;226mNo accelerated colorspace conversion found from yuv420p to bgr8.
+[0mOutput #0, gif, to 'panmixia.gif':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2021-03-03T17:59:34+0000
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    encoder         : Lavf57.56.101
+    Stream #0:0(und): Video: gif, bgr8, 1310x518 [SAR 1:1 DAR 655:259], q=2-31, 200 kb/s, 60 fps, 100 tbn, 60 tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:00:29.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.64.101 gif
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> gif (native))
+Press [q] to stop, [?] for help
+frame=   45 fps=0.0 q=-0.0 size=     204kB time=00:00:01.44 bitrate=1159.1kbits/s speed=2.87x    frame=   99 fps= 98 q=-0.0 size=     320kB time=00:00:03.16 bitrate= 829.4kbits/s speed=3.13x    frame=  163 fps=108 q=-0.0 size=     536kB time=00:00:05.54 bitrate= 792.2kbits/s speed=3.66x    frame=  232 fps=115 q=-0.0 size=     777kB time=00:00:08.39 bitrate= 759.0kbits/s speed=4.15x    frame=  308 fps=122 q=-0.0 size=    1000kB time=00:00:11.69 bitrate= 700.9kbits/s speed=4.63x    frame=  376 fps=124 q=-0.0 size=    1175kB time=00:00:14.34 bitrate= 671.2kbits/s speed=4.73x    frame=  443 fps=125 q=-0.0 size=    1355kB time=00:00:16.83 bitrate= 659.5kbits/s speed=4.77x    frame=  510 fps=126 q=-0.0 size=    1554kB time=00:00:19.44 bitrate= 655.0kbits/s speed=4.82x    frame=  578 fps=127 q=-0.0 size=    1778kB time=00:00:22.14 bitrate= 657.9kbits/s speed=4.88x    frame=  649 fps=129 q=-0.0 size=    1999kB time=00:00:25.39 bitrate= 645.0kbits/s speed=5.03x    frame=  670 fps=129 q=-0.0 Lsize=    2046kB time=00:00:26.16 bitrate= 640.7kbits/s speed=5.04x    
+video:2040kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.294919%
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ [Krstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ [Krstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ [Krstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg -i test.mov  panmixia.gif[C[1@2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gifm.gifo.gifv.gifi.gifn.gifg.gif_.gifw.gifa.gifv.gife.gif
+ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'test2.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2021-03-03T18:09:17.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    com.apple.quicktime.creationdate: 2021-03-03T18:08:19+0000
+  Duration: 00:00:29.83, start: 0.000000, bitrate: 1660 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1300x514 [SAR 1:1 DAR 650:257], 1427 kb/s, 16.22 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:09:17.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 238 kb/s (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:09:17.000000Z
+      handler_name    : Core Media Data Handler
+[48;5;0m[38;5;153m[swscaler @ 0x561f784b7f60] [0m[48;5;0m[38;5;226mNo accelerated colorspace conversion found from yuv420p to bgr8.
+[0mOutput #0, gif, to 'moving_wave.gif':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2021-03-03T18:08:19+0000
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    encoder         : Lavf57.56.101
+    Stream #0:0(und): Video: gif, bgr8, 1300x514 [SAR 1:1 DAR 650:257], q=2-31, 200 kb/s, 60 fps, 100 tbn, 60 tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:09:17.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.64.101 gif
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> gif (native))
+Press [q] to stop, [?] for help
+frame=   53 fps=0.0 q=-0.0 size=     254kB time=00:00:03.06 bitrate= 680.9kbits/s speed=6.09x    frame=  110 fps=109 q=-0.0 size=     461kB time=00:00:06.86 bitrate= 550.7kbits/s speed= 6.8x    frame=  169 fps=112 q=-0.0 size=     639kB time=00:00:10.68 bitrate= 490.2kbits/s speed=7.05x    frame=  226 fps=112 q=-0.0 size=     833kB time=00:00:14.38 bitrate= 474.7kbits/s speed=7.11x    frame=  283 fps=112 q=-0.0 size=    1025kB time=00:00:17.93 bitrate= 468.4kbits/s speed=7.09x    frame=  338 fps=111 q=-0.0 size=    1193kB time=00:00:21.23 bitrate= 460.2kbits/s speed=6.99x    frame=  391 fps=110 q=-0.0 size=    1364kB time=00:00:24.84 bitrate= 449.8kbits/s speed=7.02x    frame=  447 fps=110 q=-0.0 size=    1555kB time=00:00:28.29 bitrate= 450.2kbits/s speed=6.99x    frame=  484 fps=110 q=-0.0 Lsize=    1650kB time=00:00:29.83 bitrate= 453.2kbits/s speed= 6.8x    
+video:1646kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.277287%
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg -i test2.mov  moving_wave.gif[1P[1P[1P[1P[1P[1@l[1@o[1@c[1@k[1@d[1@o[1@w[1@n[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gifl.gifo.gifc.gifk.gifd.gifo.gifw.gifn.gif
+ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'lockdown.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2021-03-03T18:20:05.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    com.apple.quicktime.creationdate: 2021-03-03T18:19:18+0000
+  Duration: 00:00:30.70, start: 0.000000, bitrate: 1572 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1306x516 [SAR 1:1 DAR 653:258], 1292 kb/s, 16.28 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:20:05.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 238 kb/s (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:20:05.000000Z
+      handler_name    : Core Media Data Handler
+[48;5;0m[38;5;153m[swscaler @ 0x55c11568c380] [0m[48;5;0m[38;5;226mNo accelerated colorspace conversion found from yuv420p to bgr8.
+[0mOutput #0, gif, to 'lockdown.gif':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2021-03-03T18:19:18+0000
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    encoder         : Lavf57.56.101
+    Stream #0:0(und): Video: gif, bgr8, 1306x516 [SAR 1:1 DAR 653:258], q=2-31, 200 kb/s, 60 fps, 100 tbn, 60 tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:20:05.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.64.101 gif
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> gif (native))
+Press [q] to stop, [?] for help
+frame=   77 fps=0.0 q=-0.0 size=     250kB time=00:00:03.34 bitrate= 612.0kbits/s speed=6.66x    frame=  136 fps=135 q=-0.0 size=     472kB time=00:00:07.33 bitrate= 527.4kbits/s speed= 7.3x    frame=  193 fps=128 q=-0.0 size=     576kB time=00:00:11.14 bitrate= 423.8kbits/s speed=7.38x    frame=  245 fps=122 q=-0.0 size=     684kB time=00:00:14.81 bitrate= 378.1kbits/s speed=7.36x    frame=  302 fps=120 q=-0.0 size=     803kB time=00:00:18.38 bitrate= 358.0kbits/s speed= 7.3x    frame=  359 fps=119 q=-0.0 size=     930kB time=00:00:22.14 bitrate= 344.2kbits/s speed=7.31x    frame=  416 fps=118 q=-0.0 size=    1057kB time=00:00:25.89 bitrate= 334.5kbits/s speed=7.33x    frame=  473 fps=117 q=-0.0 size=    1245kB time=00:00:29.56 bitrate= 345.1kbits/s speed=7.32x    frame=  503 fps=119 q=-0.0 Lsize=    1309kB time=00:00:30.69 bitrate= 349.3kbits/s speed=7.28x    
+video:1304kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.361400%
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ [Krstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg -i lockdown.mov  lockdown.gif[C[1P[1P[1P[1P[1P[1P[1P[1P[1@w[1@a[1@n[1@i[1@n[1@g[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gifw.gifa.gifn.gifi.gifn.gifg.gif
+ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'waning.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2021-03-03T18:39:00.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    com.apple.quicktime.creationdate: 2021-03-03T18:38:15+0000
+  Duration: 00:00:26.57, start: 0.000000, bitrate: 2144 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1320x532 [SAR 1:1 DAR 330:133], 1912 kb/s, 14.38 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:39:00.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 238 kb/s (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:39:00.000000Z
+      handler_name    : Core Media Data Handler
+[48;5;0m[38;5;153m[swscaler @ 0x560594b31f60] [0m[48;5;0m[38;5;226mNo accelerated colorspace conversion found from yuv420p to bgr8.
+[0mOutput #0, gif, to 'waning.gif':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2021-03-03T18:38:15+0000
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    encoder         : Lavf57.56.101
+    Stream #0:0(und): Video: gif, bgr8, 1320x532 [SAR 1:1 DAR 330:133], q=2-31, 200 kb/s, 60 fps, 100 tbn, 60 tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:39:00.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.64.101 gif
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> gif (native))
+Press [q] to stop, [?] for help
+frame=   69 fps=0.0 q=-0.0 size=     235kB time=00:00:03.29 bitrate= 584.9kbits/s speed=6.56x    frame=  127 fps=127 q=-0.0 size=     652kB time=00:00:07.28 bitrate= 733.3kbits/s speed=7.25x    frame=  182 fps=120 q=-0.0 size=    1116kB time=00:00:11.43 bitrate= 799.7kbits/s speed=7.57x    frame=  235 fps=116 q=-0.0 size=    1594kB time=00:00:15.29 bitrate= 854.2kbits/s speed=7.58x    frame=  289 fps=115 q=-0.0 size=    2116kB time=00:00:19.51 bitrate= 888.6kbits/s speed=7.74x    frame=  344 fps=114 q=-0.0 size=    2588kB time=00:00:23.58 bitrate= 899.3kbits/s speed=7.79x    frame=  382 fps=113 q=-0.0 Lsize=    2887kB time=00:00:26.54 bitrate= 891.0kbits/s speed=7.83x    
+video:2883kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.130652%
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ [Krstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ [Krstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg -i waning.mov  waning.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gif[1P.gifb.gifl.gifo.gifc.gifk.gifi.gifn.gifg.gif[1P[1P[1P[1P[1P[1P[1@b[1@l[1@o[1@c[1@k[1@i[1@n[1@g
+ffmpeg version 3.2.12-1~deb9u1 Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 6.3.0 (Debian 6.3.0-18+deb9u1) 20170516
+  configuration: --prefix=/usr --extra-version='1~deb9u1' --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libebur128 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+  libavutil      55. 34.101 / 55. 34.101
+  libavcodec     57. 64.101 / 57. 64.101
+  libavformat    57. 56.101 / 57. 56.101
+  libavdevice    57.  1.100 / 57.  1.100
+  libavfilter     6. 65.100 /  6. 65.100
+  libavresample   3.  1.  0 /  3.  1.  0
+  libswscale      4.  2.100 /  4.  2.100
+  libswresample   2.  3.100 /  2.  3.100
+  libpostproc    54.  1.100 / 54.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'blocking.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    creation_time   : 2021-03-03T18:52:06.000000Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    com.apple.quicktime.creationdate: 2021-03-03T18:51:34+0000
+  Duration: 00:00:08.67, start: 0.000000, bitrate: 1681 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 1298x514 [SAR 1:1 DAR 649:257], 1496 kb/s, 15.58 fps, 60 tbr, 6k tbn, 12k tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:52:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : H.264
+    Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 235 kb/s (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:52:06.000000Z
+      handler_name    : Core Media Data Handler
+[48;5;0m[38;5;153m[swscaler @ 0x55ca99275460] [0m[48;5;0m[38;5;226mNo accelerated colorspace conversion found from yuv420p to bgr8.
+[0mOutput #0, gif, to 'blocking.gif':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 0
+    compatible_brands: qt  
+    com.apple.quicktime.creationdate: 2021-03-03T18:51:34+0000
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iMac8,1
+    com.apple.quicktime.software: Mac OS X 10.11.6 (15G31)
+    encoder         : Lavf57.56.101
+    Stream #0:0(und): Video: gif, bgr8, 1298x514 [SAR 1:1 DAR 649:257], q=2-31, 200 kb/s, 60 fps, 100 tbn, 60 tbc (default)
+    Metadata:
+      creation_time   : 2021-03-03T18:52:06.000000Z
+      handler_name    : Core Media Data Handler
+      encoder         : Lavc57.64.101 gif
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> gif (native))
+Press [q] to stop, [?] for help
+frame=   59 fps=0.0 q=-0.0 size=     361kB time=00:00:04.68 bitrate= 631.6kbits/s speed=9.22x    frame=  123 fps=122 q=-0.0 size=     572kB time=00:00:08.31 bitrate= 564.2kbits/s speed=8.23x    frame=  135 fps=123 q=-0.0 Lsize=     591kB time=00:00:08.64 bitrate= 560.7kbits/s speed=7.85x    
+video:590kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.311579%
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ ffmpeg -i blocking.mov  blocking.gif[4Pwaning.mov  waning.giflockdown.mov  lockdown.giftest2.mov  moving_wave.gif[4P.mov  panmixia.gif[Kgit clone https://github.com/VictimOfMaths/COVID-19.git[3Pcd /home/rstudio/webpages/epidemiology/victim_maths/[6Pfind /home/rstudio/shiny/Epidemics -mtime -200cd /home/rstudio/webpages/epidemiology/victim_maths/[6Pfind /home/rstudio/shiny/Epidemics -mtime -200Rmd -mtime -20[1@*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[K*[KRmd*rmd*inf*e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@webpages/epidemiology[C[C[C[C[C[Ccovid19*inf*[13P covid19*inf*[17P covid19*inf*[11Pcovid19_vs[1P covid19_vsgit clone https://github.com/joncutrer/geopandas-tutorial.ggit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd maps[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@mkdir[C[C[C[C[Cls[Kcd jupyter/home/rstudio[6Prstudiojupyter-labsudo pip install jupyterlab[5Pconda[4@apt-get[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconda install -c conda-forge jupyterlabsudo /home/rstudio/.local/share/r-miniconda/envs/r-reticulaate/bin/python3.6 -m pip install numpystatistics[4Ppandaslotly.express[A[C[C[C[C[C[C[Cwhereis python3[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Ppython3sudo apt-get install anaconda[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo python3 -m pip install plotly.express[18Papt-get install anaconda[5@sudo [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython3[Kwhereis python3sudo /home/rstudio/.local/share/r-miniconda/envs/r-reticulaate/bin/python3.6 -m pip install plotly.express[8Pandasstatistics[5Pnumpy[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pconda install -c conda-forge jupyterlab
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Psudo apt-get install conda[4Ppip[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjupyterlab[16Pjupyter-lab[1Pcd rstudio/home/rstudio[6Pjupyterls[Kmkdir maps[3Pcd[C[C[C[C[Cgit clone https://github.com/joncutrer/geopandas-tutorial.ggit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfin covid19_vs[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd covid19_vs[K/home covid19*inf*/rstudio/webpages covid19*inf*/epidemiology covid19*inf*[K[3P*inf*[6Pshiny/epidemics[C[C[C[C[C[CE[C[C[C[C[C[C[C[C[C[C[C[C[C[Crmd*Rmd*[K-mtime -20[5@*Rmd [C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P-mtime -200cd /home/rstudio/webpages/epidemiology/victim_maths/git clone https://github.com/VictimOfMaths/COVID-19.gitffmpeg[K -i test.mov  panmixia.gif2.mov  moving_wave.giflockdown.mov  lockdown.gif[4Pwaning.mov  waning.gifblocking.mov  blocking.gif[Kgit init
+Initialized empty Git repository in /home/rstudio/webpages/epidemiology/netlogo/.git/
+]0;/home/rstudio/webpages/epidemiology/netlogorstudio@0986871bf3b8:~/webpages/epidemiology/netlogo$ git initffmpeg -i blocking.mov  blocking.gif[4Pwaning.mov  waning.giflockdown.mov  lockdown.giftest2.mov  moving_wave.gif[4P.mov  panmixia.gif[Kgit clone https://github.com/VictimOfMaths/COVID-19.git[3Pcd /home/rstudio/webpages/epidemiology/victim_maths/[6Pfind /home/rstudio/shiny/Epidemics -mtime -200Rmd -mtime -20[1@*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[K*[KRmd*rmd*inf*e[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6@webpages/epidemiology[C[C[C[C[C[Ccovid19*inf*[13P covid19*inf*[17P covid19*inf*[11Pcovid19_vs[1P covid19_vsgit clone https://github.com/joncutrer/geopandas-tutorial.ggit[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd maps[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@mkdir[C[C[C[C[Cls[Kcd jupyter/home/rstudio[6Prstudiojupyter-labsudo pip install jupyterlab[5Pconda[4@apt-get[C[C[C[C[C[C[C[C[C[C[C[C[C[Cconda install -c conda-forge jupyterlabsudo /home/rstudio/.local/share/r-miniconda/envs/r-reticulaate/bin/python3.6 -m pip install numpystatistics[4Ppandaslotly.express[A[C[C[C[C[C[C[Cwhereis python3[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Ppython3sudo apt-get install anaconda[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo python3 -m pip install plotly.express[2@.6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pstatistics[5Pnumpypandas[2Peasy_install pip[9Pip install pandas[10@ython -m p[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo python -m easy_install pip[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Psudo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpip install --upgrade setuptools[5Papt-get install python3-dev[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-get install python-setuptools[17Peasy_install pipapt-get install python-setuptoolspip[K3.4-pip[2Ppurge[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Ppython -m pip install pandassudo apt-get install python3-pip[2Ppurge[C[C[C[C[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo python -m pip install pandas[5Papt-get install python4python -m pip install pandassudo apt-get install python3.4python[K -m pip install pandas[4Psudo apt-get install pippython[Ksudo apt-get install python[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython[K -m pip install pandas[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ..home[16@sudo chmod -777 -R[C[C[C[C[Ccd home[Kls[Ksudo cd home[5P[C[C[C[C[C[C[C[16@sudo chmod -777 -R[C[C[C[C[Ccd ..[Ksudo chmod -777 qs20_jessicahcd /home[K[1Phomey[Ksudo adduser qs20_jessicahpt-get -y install postgresql-12-plrostgis-u postgres psql -c "alter user duncan with password ''duncan';"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcreateuser duncan --superuser
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pdb geostats[19Pdrop[C[C[C[C[C[C[C[C[C[C[Csudo -u postgres psql -c "alter user postgres with passwordd 'postgres';"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpsql geostats[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21@sudo -u postgres createdb[C[C[C[C[C[C[C[C[Cconn <- dbConnect("PostgreSQL", host = "postgis",psql[Kdropdb geostats[2@create[C[C[C[C[C[C[C[C[C[C[Csudo -u postgres psql -c "alter user postgres with passwordd 'postgres';"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccreatedb geostats[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo service postgresql start.service start[20Pcreatedb geostatspsql[Ksudo apt-get install postgresql-server-dev-12[7Papt --installed list | grep postgresqlsudo apt-get install postgresql-server-dev[2@re[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kclientpsql[Ksudo apt-get reinstall postgresql[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Psu postgrescreatedb geostatssudo apt-get install postgresql postgresql-contribps -p 1 -o comm=[Ksudo service postgresql.service startystemctl start postgresql.service[1Pop[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@art[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Papt-get install postgresql-server[21Pcreatedb geostatssudo apt-get install postgresql-client[2Pservice start[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pcreatedb geostats[2Pdrop[C[C[C[C[C[C[C[C[C[C[Csudo service start postgresql[8P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt-get install postgresql-server[K[12Pupdate-u postgres psql -c "alter user postgres with passwordd 'postgres';"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpasswd postgres[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod -R 777 catie[1Pown catie[C[C[C[C[C[Cls[Kcd /home[1Phomesudo adduser catiept-get install r-cran-leafletmapview[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pgit push -u origin master[4Pcommit -m "first"add .[Kpush -u origin master[4Pcommit -m "first"add .[K

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614794627106.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3415813500",
+    "id" : "2721FCE1",
+    "lastKnownWriteTime" : 1614797620,
+    "last_content_update" : 1614797620416,
+    "path" : "~/webpages/epidemiology/netlogo/netlogo.Rmd",
+    "project_path" : "netlogo.Rmd",
+    "properties" : {
+        "cursorPosition" : "57,34",
+        "scrollLine" : "48",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
